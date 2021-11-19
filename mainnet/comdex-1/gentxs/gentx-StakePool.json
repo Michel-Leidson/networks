@@ -11,8 +11,8 @@
                     "details": "Hello everyone, Please consider moving your delegation to StakePool, we are one of the low-rate, consistently functioning nodes"
                 },
                 "commission": {
-                    "rate": "0.050000000000000000",
-                    "max_rate": "0.020000000000000000",
+                    "rate": "0.020000000000000000",
+                    "max_rate": "0.050000000000000000",
                     "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
